@@ -1,0 +1,375 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_5DE54E27_47A0_B11A_41C9_BE0A95BC5914.source = https://federalland.ph/residential/marikina/siena-towers/
+WebFrame_53DF5161_EEE6_DD5A_41ED_280546F13F74.url = https://jiaseeds.github.io/vsph-TGMO-about-popup/
+WebFrame_C3677CE5_E5C3_156C_41CC_2D9A83B02AFF.url = https://jiaseeds.github.io/vsph-TGMO-help-screen/
+WebFrame_CC92EF5F_D8FD_B286_41B1_313B42B87DFF.url = https://jiaseeds.github.io/vsph-TGMO-navigation-bar/
+WebFrame_A7838381_D3A2_36B6_41A4_E7F088C754B0.url = https://jiaseeds.github.io/vsph-TGMO-sub-navigation-bar/
+WebFrame_9D8AD255_CDDF_F65E_41DF_024646BEEB61.url = https://jiaseeds.github.io/vsph-TGMO-sub-navigation-bar/
+WebFrame_A49CBFE5_D3A2_4E7E_41E8_993F1DF3438D.url = https://jiaseeds.github.io/vsph-TGMO-sub-navigation-bar/
+WebFrame_1865F6FB_C86C_938E_41DE_EE5A9AA3D575.url = https://jiaseeds.github.io/vsph-TMGO-green-rounded-overlay/
+WebFrame_CC140DD6_DFE4_7186_41E9_59E1E831F5D8.url = https://jiaseeds.github.io/vsph-TMGO-image-shuffle/
+WebFrame_CBF397AC_D823_918A_41DB_AE2E183D05A7.url = https://jiaseeds.github.io/vsph-federal-land-sparkle-trail/
+WebFrame_DE3505FD_EDF5_878F_41E5_4D84BD2F16C1.url = https://jiaseeds.github.io/vsph-sienna-site-development-overlay/
+WebFrame_DF5E8CFE_EDF5_858D_41E9_4E5A4C8BF22C.url = https://jiaseeds.github.io/vsph-sienna-site-development-overlay/
+WebFrame_3406F542_0175_17CB_416E_C8B7B18D67CC.url = https://jiaseeds.github.io/vsph-sienna-site-development-overlay/
+WebFrame_DFFCABC6_EDF5_83FD_41DF_20EE7C62C462.url = https://jiaseeds.github.io/vsph-sienna-site-development-overlay/
+WebFrame_DFB830B3_EDF5_FD9B_41E3_F2AE4C30EA95.url = https://jiaseeds.github.io/vsph-sienna-site-development-overlay/
+WebFrame_60EF7DE0_7F93_E83E_41D8_60952B2A8FE4.url = https://jiaseeds.github.io/vsph-sienna-site-development-overlay/
+WebFrame_D923D623_EDF6_84BB_41E7_1D5860BF19E2.url = https://jiaseeds.github.io/vsph-sienna-site-development-overlay/
+WebFrame_D9701559_EDF6_8497_41B1_D90027B28997.url = https://jiaseeds.github.io/vsph-sienna-site-development-overlay/
+WebFrame_DED5F558_EDF5_8495_41E7_5A8BD1F66E66.url = https://jiaseeds.github.io/vsph-sienna-site-development-overlay/
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_C46501DC_EC2D_BF8D_41E9_7934B268A5C4.text = Go to 1 Bedroom
+HotspotPanoramaOverlayTextImage_DB47F964_EC16_8CBD_41E1_564A6DC2B705.text = Go to 1 Bedroom
+HotspotPanoramaOverlayTextImage_F68BF4FB_EC1A_858B_41CC_2F60CFCAC2B3.text = Go to 1 Bedroom
+HotspotPanoramaOverlayTextImage_348603B2_0173_334B_4175_F9C2D03DA9F4.text = Go to 1 Bedroom Flex
+HotspotPanoramaOverlayTextImage_F6A0FA75_EC16_8C9E_41D9_851472177AE5.text = Go to 1 Bedroom Flex
+HotspotPanoramaOverlayTextImage_C54A2EFA_EC1D_8595_41D2_89523955D12C.text = Go to 2 Bedroom
+HotspotPanoramaOverlayTextImage_DB6C6E7D_EC16_848F_41E7_38C6653FF877.text = Go to 3 Bedroom
+HotspotPanoramaOverlayTextImage_F0C4C00C_EC2E_7C8D_415D_D4706B268D78.text = Go to Amenity Floor
+HotspotPanoramaOverlayTextImage_CEFED713_ECFA_849B_41BA_6E946DC5BB2E.text = Go to Children's Playroom \
+
+HotspotPanoramaOverlayTextImage_C948EA63_EC3D_8CBB_41A8_74B1A6735296.text = Go to Computer Game Room
+HotspotPanoramaOverlayTextImage_F201FC0B_EC15_848B_41E1_7AEE3833391A.text = Go to Conference Room
+HotspotPanoramaOverlayTextImage_F15C9476_EC2B_849D_41E5_9FA15BBFA2F8.text = Go to Drop-off Area
+HotspotPanoramaOverlayTextImage_D73130E8_EC3E_BDB5_41BB_E2D41000CF28.text = Go to Drop-off Area
+HotspotPanoramaOverlayTextImage_D547FF88_EC37_8475_41CA_DBCCB67ADEE0.text = Go to Elevator Lobby
+HotspotPanoramaOverlayTextImage_348673B3_0173_3349_4169_F1ACC7227404.text = Go to Elevator Lobby
+HotspotPanoramaOverlayTextImage_F15EC56B_EC1B_848B_41B2_E9C9A25256F3.text = Go to Elevator Lobby
+HotspotPanoramaOverlayTextImage_DB6DBE7D_EC16_848F_41E7_27E625087572.text = Go to Elevator Lobby
+HotspotPanoramaOverlayTextImage_C52D5DAC_EC1D_878D_41E0_C56F608187D4.text = Go to Elevator Lobby
+HotspotPanoramaOverlayTextImage_CD1E3FC1_ECF5_83F7_41D1_6221434B979F.text = Go to Elevator Lobby
+HotspotPanoramaOverlayTextImage_C54A5EFA_EC1D_8595_41C6_B83BE254A25B.text = Go to Elevator Lobby
+HotspotPanoramaOverlayTextImage_CE0C7800_ECEB_8C75_41DE_A3310D16E660.text = Go to Elevator Lobby
+HotspotPanoramaOverlayTextImage_DB478963_EC16_8CBB_41E8_B02D2BAC0F17.text = Go to Elevator Lobby
+HotspotPanoramaOverlayTextImage_CDA68053_ECF6_7C9B_41D0_02134490695B.text = Go to Elevator Lobby
+HotspotPanoramaOverlayTextImage_F68B04FB_EC1A_858B_41DC_DBB31C355651.text = Go to Elevator Lobby
+HotspotPanoramaOverlayTextImage_CBB49134_EC2E_9C9D_41EA_16B916DCFB48.text = Go to Elevator Lobby
+HotspotPanoramaOverlayTextImage_C46541DC_EC2D_BF8D_41DD_9B2B34305350.text = Go to Elevator Lobby
+HotspotPanoramaOverlayTextImage_CEF99716_ECFA_849D_41AD_E653E45E8F32.text = Go to Elevator Lobby
+HotspotPanoramaOverlayTextImage_F6B99467_EC1A_84BB_41D1_7CE1446F6AC5.text = Go to Elevator Lobby
+HotspotPanoramaOverlayTextImage_C921FD39_EC3D_8497_41E4_7426D74F59D2.text = Go to Elevator Lobby
+HotspotPanoramaOverlayTextImage_F0B8387D_EC2E_8C8F_41C5_5C87454F752D.text = Go to Elevator Lobby
+HotspotPanoramaOverlayTextImage_D4F7F53E_EC3F_848D_41E6_A5693A57481B.text = Go to Entrance Hall
+HotspotPanoramaOverlayTextImage_F2FC0F9F_EC1A_838B_41EC_FB11AB020D71.text = Go to Entrance Hall
+HotspotPanoramaOverlayTextImage_F12DDF69_EC2D_84B7_41EA_3ED50017BB5E.text = Go to Entrance Hall
+HotspotPanoramaOverlayTextImage_D71A8E6B_EC3E_848B_41C1_AC39BAA11770.text = Go to Facade
+HotspotPanoramaOverlayTextImage_F3DC7AB8_ECEA_8D95_41DD_0CEDC8E25195.text = Go to Fitness Gym
+HotspotPanoramaOverlayTextImage_CBB47135_EC2E_9C9F_41E9_A2EE1E357930.text = Go to Game Room
+HotspotPanoramaOverlayTextImage_CAE32BB1_EC3D_8397_41C9_4BC8062177E4.text = Go to Game Room
+HotspotPanoramaOverlayTextImage_C921CD39_EC3D_8497_41E1_E6EAF7A880D7.text = Go to Game Room
+HotspotPanoramaOverlayTextImage_F15E8475_EC2B_849F_41C4_F7F82D167E71.text = Go to Lounge
+HotspotPanoramaOverlayTextImage_F1A4BA9E_EC15_8D8D_41D1_C9E40123781D.text = Go to Lounge
+HotspotPanoramaOverlayTextImage_F1D09AE7_EC1B_8DBB_41EC_D59898EFB09D.text = Go to Multi Purpose Hall
+HotspotPanoramaOverlayTextImage_CD99204F_ECF6_7C8B_41A6_5D0239F5805A.text = Go to Multi Purpose Room
+HotspotPanoramaOverlayTextImage_D614C490_EC3A_8595_41E9_314E4B95ABEE.text = Go to Streetview
+HotspotPanoramaOverlayTextImage_D7F463A8_EC3F_83B5_41A8_0F4F26785195.text = Go to Streetview
+HotspotPanoramaOverlayTextImage_C52C8DAD_EC1D_878F_41D7_32F6A84E7E83.text = Go to Studio
+HotspotPanoramaOverlayTextImage_D547AF89_EC37_8477_41E8_85DD5F1B0237.text = Go to Studio
+HotspotPanoramaOverlayTextImage_CD1ECFBD_ECF5_838F_41E7_8A40A46D6111.text = Go to Study Lounge
+HotspotPanoramaOverlayTextImage_F201CC0A_EC15_8475_41D9_6585726DA5FF.text = Go to Swimming Pool
+HotspotPanoramaOverlayTextImage_F0C6D00C_EC2E_7C8D_41E8_84536AEEA7DA.text = Go to Tower 1 Units
+HotspotPanoramaOverlayTextImage_F1F988F6_EC16_8D9D_41EA_33A57EE74A45.text = Go to Tower 2 Units
+HotspotPanoramaOverlayTextImage_F2634242_ECEA_9CF5_41DC_82EC3A5F6BE1.text = Go to Yoga Room
+
+### Tooltip
+HotspotPanoramaOverlayArea_6E2620B5_70F3_98D1_41DB_760327BA0510.toolTip = Go to Entrance Hall
+
+## Media
+
+### Floorplan
+
+### Image
+imlevel_3D0DA86C_00BF_1DDF_4179_27BE1AA3AF18.url = media/map_56027546_7172_9A07_41B7_DF8A163533FD_en_0.webp
+imlevel_3D0C786E_00BF_1DDB_4145_3CD01F221340.url = media/map_56027546_7172_9A07_41B7_DF8A163533FD_en_1.webp
+imlevel_3D0C586F_00BF_1DD9_4117_38C42C378C50.url = media/map_56027546_7172_9A07_41B7_DF8A163533FD_en_2.webp
+imlevel_3D0C4871_00BF_1DC9_415E_75A0F321B15C.url = media/map_56027546_7172_9A07_41B7_DF8A163533FD_en_3.webp
+imlevel_3D0C1873_00BF_1DC9_4169_72339C82C844.url = media/map_56027546_7172_9A07_41B7_DF8A163533FD_en_4.webp
+imlevel_3D15B6D9_00BF_12F9_4163_237EF1FB79B4.url = media/map_5606DC40_7172_8A7B_41DB_0F366FDB1544_en_0.webp
+imlevel_3D1596DA_00BF_12FB_4177_A8A13C8ABD83.url = media/map_5606DC40_7172_8A7B_41DB_0F366FDB1544_en_1.webp
+imlevel_3D1586DC_00BF_12FF_4169_E510F863F14E.url = media/map_5606DC40_7172_8A7B_41DB_0F366FDB1544_en_2.webp
+imlevel_3D1456DE_00BF_12FB_4176_FFF5C66306BC.url = media/map_5606DC40_7172_8A7B_41DB_0F366FDB1544_en_3.webp
+imlevel_3D1446DF_00BF_12F9_4172_B2F3D87254C0.url = media/map_5606DC40_7172_8A7B_41DB_0F366FDB1544_en_4.webp
+imlevel_3D0BB80E_00BF_1D5B_4174_34B00B1CD8B0.url = media/map_561C0C42_7172_8A7F_41C8_F59C74CAC6B6_en_0.webp
+imlevel_3D0B980F_00BF_1D58_415B_F4CDCE6DC427.url = media/map_561C0C42_7172_8A7F_41C8_F59C74CAC6B6_en_1.webp
+imlevel_3D0B8811_00BF_1D49_4172_B628AE74ABCE.url = media/map_561C0C42_7172_8A7F_41C8_F59C74CAC6B6_en_2.webp
+imlevel_3D0A6813_00BF_1D49_416C_4145947E782E.url = media/map_561C0C42_7172_8A7F_41C8_F59C74CAC6B6_en_3.webp
+imlevel_3D0A3815_00BF_1D49_4168_708D6A2B066E.url = media/map_561C0C42_7172_8A7F_41C8_F59C74CAC6B6_en_4.webp
+imlevel_3D0FD8CB_00BF_1ED9_4166_1483AA22D0AD.url = media/map_561D19E3_7172_8A3D_41D8_4E69411CF948_en_0.webp
+imlevel_3D0FB8CD_00BF_1ED9_4158_EB98CE3C9596.url = media/map_561D19E3_7172_8A3D_41D8_4E69411CF948_en_1.webp
+imlevel_3D0F98CE_00BF_1EDB_414F_FDAE02B7AA5C.url = media/map_561D19E3_7172_8A3D_41D8_4E69411CF948_en_2.webp
+imlevel_3D0E78D0_00BF_1EC7_4156_3FAB528DF360.url = media/map_561D19E3_7172_8A3D_41D8_4E69411CF948_en_3.webp
+imlevel_3D0E58D2_00BF_1ECB_4172_5DBA9D94BE6D.url = media/map_561D19E3_7172_8A3D_41D8_4E69411CF948_en_4.webp
+imlevel_3D0997A4_00BF_134F_4166_B2BCA759B2A3.url = media/map_561FF364_7172_BE3B_41D0_DE6BB7868A60_en_0.webp
+imlevel_3D0987A5_00BF_1349_4143_E637D1DABC6A.url = media/map_561FF364_7172_BE3B_41D0_DE6BB7868A60_en_1.webp
+imlevel_3D0867A7_00BF_1349_4154_E41C85B4A5F6.url = media/map_561FF364_7172_BE3B_41D0_DE6BB7868A60_en_2.webp
+imlevel_3D0857A9_00BF_1359_4167_0107C6630C67.url = media/map_561FF364_7172_BE3B_41D0_DE6BB7868A60_en_3.webp
+imlevel_3D0827AA_00BF_135B_4163_39FCD9398370.url = media/map_561FF364_7172_BE3B_41D0_DE6BB7868A60_en_4.webp
+imlevel_3D17D73C_00BF_13BF_4150_EA67434814F8.url = media/map_58042A94_7172_8E1B_41D2_3AB10B0560F4_en_0.webp
+imlevel_3D17B73D_00BF_13B9_4168_68EB29004EC0.url = media/map_58042A94_7172_8E1B_41D2_3AB10B0560F4_en_1.webp
+imlevel_3D17973F_00BF_13B9_4157_E611C18D574B.url = media/map_58042A94_7172_8E1B_41D2_3AB10B0560F4_en_2.webp
+imlevel_3D167741_00BF_13C9_415E_0DFD3AC352FC.url = media/map_58042A94_7172_8E1B_41D2_3AB10B0560F4_en_3.webp
+imlevel_3D165742_00BF_13CB_4164_8576644C1885.url = media/map_58042A94_7172_8E1B_41D2_3AB10B0560F4_en_4.webp
+imlevel_3D019932_00BF_1F4B_416E_82AB264CAB62.url = media/map_B53E379E_EAA8_D47D_4181_8658AF392044_en_0.webp
+imlevel_3D007934_00BF_1F4F_4176_667BA00E295E.url = media/map_B53E379E_EAA8_D47D_4181_8658AF392044_en_1.webp
+imlevel_3D005935_00BF_1F49_416D_816AF5EFADD0.url = media/map_B53E379E_EAA8_D47D_4181_8658AF392044_en_2.webp
+imlevel_3D002937_00BF_1F49_415C_E1FC5C5B4D66.url = media/map_B53E379E_EAA8_D47D_4181_8658AF392044_en_3.webp
+imlevel_3D001939_00BF_1FB9_4172_19139CA06DB3.url = media/map_B53E379E_EAA8_D47D_4181_8658AF392044_en_4.webp
+imlevel_3D13B67B_00BF_15B8_4173_3DBC018C06DD.url = media/map_E4650760_F112_85CE_41DB_842F568EE447_en_0.webp
+imlevel_3D13967D_00BF_15B9_416A_67562DC918F0.url = media/map_E4650760_F112_85CE_41DB_842F568EE447_en_1.webp
+imlevel_3D12567F_00BF_15B9_4146_A84FD796BF37.url = media/map_E4650760_F112_85CE_41DB_842F568EE447_en_2.webp
+imlevel_3D124681_00BF_1549_4167_B3A0BAA93BA9.url = media/map_E4650760_F112_85CE_41DB_842F568EE447_en_3.webp
+imlevel_3D121682_00BF_154B_415B_2CA322116EBC.url = media/map_E4650760_F112_85CE_41DB_842F568EE447_en_4.webp
+imlevel_3D1E65C1_00BF_16C9_4142_F236ED00E344.url = media/map_E80ECCAD_D244_142B_41A9_0A82BE0497D5_en_0.webp
+imlevel_3D1E45C2_00BF_16CB_4148_F4D1A64F5EF0.url = media/map_E80ECCAD_D244_142B_41A9_0A82BE0497D5_en_1.webp
+imlevel_3D1E25C4_00BF_16CF_415E_9CD4F0882F6C.url = media/map_E80ECCAD_D244_142B_41A9_0A82BE0497D5_en_2.webp
+imlevel_3D1E05C6_00BF_16CB_416A_E63E0CEB0ED2.url = media/map_E80ECCAD_D244_142B_41A9_0A82BE0497D5_en_3.webp
+imlevel_3D1EE5C7_00BF_16C9_417A_C81424643D2F.url = media/map_E80ECCAD_D244_142B_41A9_0A82BE0497D5_en_4.webp
+imlevel_3D1CF562_00BF_17CB_4177_31DF2780DF20.url = media/map_E83E093A_D244_1C29_41A6_518AFAFAAB0E_en_0.webp
+imlevel_3D1CD564_00BF_17CF_4176_922E6A0EC276.url = media/map_E83E093A_D244_1C29_41A6_518AFAFAAB0E_en_1.webp
+imlevel_3D1CC565_00BF_17C9_4161_D36ABE45A5C2.url = media/map_E83E093A_D244_1C29_41A6_518AFAFAAB0E_en_2.webp
+imlevel_3D1CA567_00BF_17C9_4160_676E134B362C.url = media/map_E83E093A_D244_1C29_41A6_518AFAFAAB0E_en_3.webp
+imlevel_3D1C8569_00BF_17D9_4156_C41AA2FD60D6.url = media/map_E83E093A_D244_1C29_41A6_518AFAFAAB0E_en_4.webp
+imlevel_3D10361D_00BF_1579_4179_C00C7931CF93.url = media/map_E99CAEEA_D244_1429_41E8_D69DCFFD6FAD_en_0.webp
+imlevel_3D10F61F_00BF_1579_416E_4039D3AA41C7.url = media/map_E99CAEEA_D244_1429_41E8_D69DCFFD6FAD_en_1.webp
+imlevel_3D10E621_00BF_1549_40A2_5BCBF9916000.url = media/map_E99CAEEA_D244_1429_41E8_D69DCFFD6FAD_en_2.webp
+imlevel_3D10B622_00BF_154B_4170_186ADD3FFEA2.url = media/map_E99CAEEA_D244_1429_41E8_D69DCFFD6FAD_en_3.webp
+imlevel_3D10A624_00BF_154F_4178_884DB5DF6C10.url = media/map_E99CAEEA_D244_1429_41E8_D69DCFFD6FAD_en_4.webp
+imlevel_3D1D3503_00BF_1749_4176_6A7E6B3B2746.url = media/map_EDA79C82_D244_14D9_41E9_11D788FDD8ED_en_0.webp
+imlevel_3D1D1505_00BF_1749_4139_05828173606C.url = media/map_EDA79C82_D244_14D9_41E9_11D788FDD8ED_en_1.webp
+imlevel_3D1D0507_00BF_1749_414F_1056D2E0A111.url = media/map_EDA79C82_D244_14D9_41E9_11D788FDD8ED_en_2.webp
+imlevel_3D1DF509_00BF_1759_4179_74280EE63D9C.url = media/map_EDA79C82_D244_14D9_41E9_11D788FDD8ED_en_3.webp
+imlevel_3D1DD50B_00BF_1759_4173_AD9904F6D1D2.url = media/map_EDA79C82_D244_14D9_41E9_11D788FDD8ED_en_4.webp
+imlevel_D7DC2F3E_EC3E_848D_41EB_CB6FE3ACEABB.url = media/panorama_1F4E6CAE_04ED_1B6E_4149_48FF341EA5DC_HS_zfa2oqzd_en.webp
+imlevel_21C6AFAD_01CD_3359_4147_11338E40321F.url = media/panorama_2137042B_01F3_1559_4161_CB6F92A196E8_HS_r1kgaub3_en.webp
+imlevel_D7DDEF21_EC3E_84B7_41E9_3172D2CD1546.url = media/panorama_220FE71A_04ED_3534_415B_B337CB08FAE8_HS_mowllv83_en.webp
+imlevel_37D5C889_0173_3D59_4165_594924E3C0FE.url = media/panorama_349DE3A6_0173_334B_4152_7AE13F58274B_HS_4icvfpgh_en.webp
+imlevel_37D4A8C4_0173_3ECF_4174_84C9B94701A8.url = media/panorama_349DE3A6_0173_334B_4152_7AE13F58274B_HS_kucrmu1f_en.webp
+imlevel_C6B194F0_EDEF_8595_41D6_5FFD782E809A.url = media/panorama_3AFA4C98_76D5_6AEF_41C8_DA7487018914_HS_0y1sly77_en.webp
+imlevel_C6B64529_EDEF_84B7_41E9_0B5C7EBBB9A9.url = media/panorama_3AFA4C98_76D5_6AEF_41C8_DA7487018914_HS_haf97qe9_en.webp
+imlevel_D7D5B06B_EC3E_7C8B_41AF_A30E20E7FE66.url = media/panorama_59038C86_7673_6AE3_41D9_5E962C6966F8_HS_dks3yp67_en.webp
+imlevel_D7D7501F_EC3E_7C8B_41E5_3CB8CA743296.url = media/panorama_59038C86_7673_6AE3_41D9_5E962C6966F8_HS_ud1oepcs_en.webp
+imlevel_D7D410A5_EC3E_7DBF_41DE_4891FBAD4F69.url = media/panorama_5906FEAD_7677_6621_41B0_8F9B5606388E_HS_626eyuxp_en.webp
+imlevel_D62AA0F0_EC3E_7D95_41CB_1C10AEB28EE4.url = media/panorama_5906FEAD_7677_6621_41B0_8F9B5606388E_HS_l96rhxlr_en.webp
+imlevel_C668A1B1_EDEF_9F97_41C9_2FEECC0B298D.url = media/panorama_61250665_5DEA_1D1F_41D2_F836E036C74B_HS_enl081q5_en.webp
+imlevel_C66931E4_EDEF_9FBD_41E5_CB31E5DC96DF.url = media/panorama_61250665_5DEA_1D1F_41D2_F836E036C74B_HS_y0sug6sk_en.webp
+imlevel_C6B2D498_EDEF_8595_41E8_78885E4B5AD4.url = media/panorama_630DF281_5DDA_1517_419C_BCBFB699881F_HS_rl72kueu_en.webp
+imlevel_C6B094C4_EDEF_85FD_41EB_60A56F7D4C64.url = media/panorama_630DF281_5DDA_1517_419C_BCBFB699881F_HS_zs4koi9t_en.webp
+imlevel_D6293131_EC3E_7C97_41D7_7D95F1691CDC.url = media/panorama_63BD2C99_5DDF_ED37_41D1_4D3EAC1BB93C_HS_kk8u0kqf_en.webp
+imlevel_D62FB171_EC3E_7C97_41C3_8C4D87F359B0.url = media/panorama_63BD2C99_5DDF_ED37_41D1_4D3EAC1BB93C_HS_tqj3zyam_en.webp
+imlevel_C6AEF3C5_EDEF_83FF_41BE_C8FBEA7E7450.url = media/panorama_63CD1158_5D26_1735_41C2_302BAA36B112_HS_4eckwhse_en.webp
+imlevel_C6AF4403_EDEF_847B_41B8_CA28EE7074ED.url = media/panorama_63CD1158_5D26_1735_41C2_302BAA36B112_HS_u5zy726t_en.webp
+imlevel_C6A913E6_EDEF_83BD_41E4_D5E96A81868B.url = media/panorama_63CD1158_5D26_1735_41C2_302BAA36B112_HS_whnvxxku_en.webp
+imlevel_C6AC8424_EDEF_84BD_41C8_E70BC04BCA9C.url = media/panorama_63D59857_5D26_153B_41BC_0E32FE75F7FB_HS_77pkfd01_en.webp
+imlevel_D7D04FE2_EC3E_83B5_41EA_1418EA525404.url = media/panorama_63EA9321_5D2A_3B17_41A5_58DD17A13C2C_HS_ckhxyw4h_en.webp
+imlevel_D7D2AFA4_EC3E_83BD_41DE_D890B19C109F.url = media/panorama_63EA9321_5D2A_3B17_41A5_58DD17A13C2C_HS_rigvniro_en.webp
+imlevel_C6B2A46C_EDEF_848D_4194_57D63685084C.url = media/panorama_63F50980_5D26_7715_41BF_EE27C1F4C080_HS_uz3c000y_en.webp
+imlevel_C6ADA440_EDEF_84F5_41B4_6CA769E68A41.url = media/panorama_63F50980_5D26_7715_41BF_EE27C1F4C080_HS_vr3ztr7s_en.webp
+imlevel_C6AA2369_EDEF_9CB7_41DD_12D0A6A563B2.url = media/panorama_AAB48B86_E937_0E58_41E3_3F9B80ED679A_HS_6wbhx62z_en.webp
+imlevel_C6A9F39A_EDEF_8395_41E6_F37A6C6D2C26.url = media/panorama_AAB48B86_E937_0E58_41E3_3F9B80ED679A_HS_tacl6di3_en.webp
+imlevel_C6AA433D_EDEF_9C8F_41C4_F2D56B5D8757.url = media/panorama_AAB594DD_E937_1BE8_41EA_0BFF773631A2_HS_e7p5xieq_en.webp
+imlevel_C6A5730B_EDEF_9C8B_41C8_225D5953A2D8.url = media/panorama_AAB594DD_E937_1BE8_41EA_0BFF773631A2_HS_rh7fm7w5_en.webp
+imlevel_C6A6B28E_EDEF_9D8D_41E1_B36B5F9D7CEC.url = media/panorama_AAB8F068_E935_3AA8_41EC_AC99B2D2D471_HS_1n86d3zu_en.webp
+imlevel_C6A00258_EDEF_9C95_41DE_77B1B75A7F59.url = media/panorama_AAB8F068_E935_3AA8_41EC_AC99B2D2D471_HS_5mlx0nv6_en.webp
+imlevel_C6A33223_EDEF_9CBB_41D2_423E7AEAAE9D.url = media/panorama_AAB8F068_E935_3AA8_41EC_AC99B2D2D471_HS_m4awfj5x_en.webp
+imlevel_C66BC180_EDEF_9C75_41E3_B22D795C36A1.url = media/panorama_AAB927D9_E935_05E8_41EB_B8603901C939_HS_01foeq72_en.webp
+imlevel_C66660ED_EDEF_9D8F_4181_05C08CEB0779.url = media/panorama_AAB927D9_E935_05E8_41EB_B8603901C939_HS_55opc67d_en.webp
+imlevel_C6642121_EDEF_9CB7_41C0_360B366E33D8.url = media/panorama_AAB927D9_E935_05E8_41EB_B8603901C939_HS_7txml5un_en.webp
+imlevel_C66670B9_EDEF_9D97_41C3_CEC7C5D1F834.url = media/panorama_AAB927D9_E935_05E8_41EB_B8603901C939_HS_rgvujkbn_en.webp
+imlevel_C665E156_EDEF_9C9D_41E3_AB910C29A881.url = media/panorama_AAB927D9_E935_05E8_41EB_B8603901C939_HS_ro6ilo3q_en.webp
+imlevel_C6619084_EDEF_9C7D_41D2_892BBB1EB575.url = media/panorama_AABBA162_E935_1AD8_41E1_1BEA454C7590_HS_6ay1a4jx_en.webp
+imlevel_C6A4A2DF_EDEF_9D8B_41E4_389A03E0AC2C.url = media/panorama_AABC1C19_E937_0A68_41DA_54F1AF7FD2A2_HS_477qog8u_en.webp
+imlevel_C6A7A2B6_EDEF_9D9D_41EA_C9109EF8A0BC.url = media/panorama_AABC1C19_E937_0A68_41DA_54F1AF7FD2A2_HS_sqpvxbhf_en.webp
+imlevel_C660C04D_EDEF_9C8F_41DA_7D051CE00F4E.url = media/panorama_AABD147A_E935_7AA8_41B2_A087964EC146_HS_1polqlyo_en.webp
+imlevel_F15D7405_EC2D_847F_41D3_2A8BF4BED33B.url = media/panorama_CC375D5A_D86A_B44C_41D4_BD201F48D2F4_HS_unrs677z_en.webp
+imlevel_F15F03D1_EC2D_8397_41C6_AEBCADE927B8.url = media/panorama_CC375D5A_D86A_B44C_41D4_BD201F48D2F4_HS_yvenp9pz_en.webp
+imlevel_C6BB0606_EDEF_847D_41D5_C9F0971E1224.url = media/panorama_CCA3C9E3_D86A_5C7C_41E0_47796850260F_HS_0vr2hlz9_en.webp
+imlevel_C6BA55CC_EDEF_878D_41E5_E69FC24DB223.url = media/panorama_CCA3C9E3_D86A_5C7C_41E0_47796850260F_HS_u1fss14u_en.webp
+imlevel_C6B4E55D_EDEF_848F_41E0_681D5A4138A3.url = media/panorama_CCB1CA44_D87A_BC44_41BD_DC6A86A452B1_HS_m8c1h17u_en.webp
+imlevel_C6B5B596_EDEF_879D_41C4_9FD5E1C7CD2E.url = media/panorama_CCB1CA44_D87A_BC44_41BD_DC6A86A452B1_HS_obt6a78r_en.webp
+imlevel_C6BE9676_EDEF_849D_41C3_73F54E995B4A.url = media/panorama_D4669DEA_E70D_05A8_41E7_1F1E532A375D_HS_55mavoxv_en.webp
+imlevel_C6B9E63C_EDEF_848D_41A2_FC2D44ED0C85.url = media/panorama_D4669DEA_E70D_05A8_41E7_1F1E532A375D_HS_y2k10n68_en.webp
+imlevel_C649AFE6_EDEF_83BD_41C7_3986091E0821.url = media/panorama_F5E4BDFF_EC6B_878B_41C6_135D0930AB31_HS_nsx7xs1l_en.webp
+imlevel_C6620016_EDEF_9C9A_41EC_9EFEBC066ED9.url = media/panorama_F5E4BDFF_EC6B_878B_41C6_135D0930AB31_HS_xfszqbys_en.webp
+imlevel_3D631EA4_00BF_154F_4175_080C0419B78A.url = media/zoomImage_F989FC7F_D349_FA45_41D3_2F543AA379A4_en_0_0.png
+imlevel_3D630EA6_00BF_154B_4172_B46DA6E51697.url = media/zoomImage_F989FC7F_D349_FA45_41D3_2F543AA379A4_en_0_1.png
+imlevel_3D63EEA8_00BF_1547_4179_A41E1794874B.url = media/zoomImage_F989FC7F_D349_FA45_41D3_2F543AA379A4_en_0_2.png
+
+### Popup Image
+
+### Title
+panorama_CC375D5A_D86A_B44C_41D4_BD201F48D2F4.label = 1 Bedroom Flex
+panorama_59038C86_7673_6AE3_41D9_5E962C6966F8.label = 1 Bedroom Unit
+panorama_CCA3C9E3_D86A_5C7C_41E0_47796850260F.label = 1 Bedroom Unit
+panorama_63D0A190_5DDA_F735_419E_E9DD47C10CCA.label = 1-Bedroom Bathroom
+panorama_5906FEAD_7677_6621_41B0_8F9B5606388E.label = 2 Bedroom Unit
+panorama_D4669DEA_E70D_05A8_41E7_1F1E532A375D.label = 2 Bedroom Unit
+panorama_63F17670_5DDE_7DF5_41C2_B275BA270C07.label = 2-Bedroom Bath
+panorama_639FC6EB_5DDE_3AEB_41B3_2B0830E77EC6.label = 2-Bedroom Master Bath
+panorama_63BD2C99_5DDF_ED37_41D1_4D3EAC1BB93C.label = 3 Bedroom Unit
+map_E4650760_F112_85CE_41DB_842F568EE447.label = Amenity Plan
+panorama_630DF281_5DDA_1517_419C_BCBFB699881F.label = Children's Playroom
+panorama_AAB48B86_E937_0E58_41E3_3F9B80ED679A.label = Conference Room
+panorama_63EA9321_5D2A_3B17_41A5_58DD17A13C2C.label = Drop Off Area
+panorama_1F4E6CAE_04ED_1B6E_4149_48FF341EA5DC.label = EDSA View
+map_561D19E3_7172_8A3D_41D8_4E69411CF948.label = EduSchool
+panorama_AAB927D9_E935_05E8_41EB_B8603901C939.label = Elevator Lobby
+map_58042A94_7172_8E1B_41D2_3AB10B0560F4.label = Entertainment
+panorama_F5E4BDFF_EC6B_878B_41C6_135D0930AB31.label = Entrance Hall
+map_E83E093A_D244_1C29_41A6_518AFAFAAB0E.label = FP-1brunit
+map_E80ECCAD_D244_142B_41A9_0A82BE0497D5.label = FP-2brunit
+map_E99CAEEA_D244_1429_41E8_D69DCFFD6FAD.label = FP-3brunit
+map_EDA79C82_D244_14D9_41E9_11D788FDD8ED.label = FP-studiounit
+panorama_AABC1C19_E937_0A68_41DA_54F1AF7FD2A2.label = Fitness Gym
+panorama_63CD1158_5D26_1735_41C2_302BAA36B112.label = Game Room
+panorama_63D59857_5D26_153B_41BC_0E32FE75F7FB.label = Game Room b
+map_561C0C42_7172_8A7F_41C8_F59C74CAC6B6.label = HealthCare
+map_5606DC40_7172_8A7B_41DB_0F366FDB1544.label = Infrastructure
+panorama_220FE71A_04ED_3534_415B_B337CB08FAE8.label = Julia Vargas View
+panorama_AABD147A_E935_7AA8_41B2_A087964EC146.label = Lounge
+panorama_AABBA162_E935_1AD8_41E1_1BEA454C7590.label = Lounge 1
+panorama_AAB57767_E935_06D8_41EB_5CC8AC020B12.label = Mail Room
+panorama_AAB8F068_E935_3AA8_41EC_AC99B2D2D471.label = Multi-Purpose Room
+panorama_2137042B_01F3_1559_4161_CB6F92A196E8.label = Streetview
+panorama_63D3676B_5DDA_7BEB_41D2_58D996B0A15B.label = Studio Bathroom
+panorama_CCB1CA44_D87A_BC44_41BD_DC6A86A452B1.label = Studio Unit
+panorama_349DE3A6_0173_334B_4152_7AE13F58274B.label = Studio Unit
+panorama_3AFA4C98_76D5_6AEF_41C8_DA7487018914.label = Studio Unit
+panorama_63F50980_5D26_7715_41BF_EE27C1F4C080.label = Study Lounge
+panorama_61250665_5DEA_1D1F_41D2_F836E036C74B.label = Swimming Pool
+panorama_5D4036D0_7673_267F_41B7_6D5ABE204B90.label = T1 - One-Bedroom Living
+panorama_5D4665CA_7673_DA63_41DB_C9C695588065.label = T1 - One-Bedroom MBR
+panorama_5D47D5BD_7673_FA21_41C9_29095F3F0ABA.label = T1 - One-Bedroom T&B
+panorama_63AAFD3C_5DDA_6F6D_41B8_600EE6683CE4.label = T1 - Three-Bedroom Bathroom
+panorama_63881A67_5DDA_151B_41CD_3A76CA08B790.label = T1 - Three-Bedroom Bedroom 2
+panorama_63BE1E19_5DDA_ED37_41D2_BF487CB881AB.label = T1 - Three-Bedroom Bedroom 3
+panorama_63EEA035_5DDE_357F_41D4_3AACBF01767E.label = T1 - Three-Bedroom Hallway
+panorama_63EFFA77_5DDE_15FB_41CD_769CFC7A11EC.label = T1 - Three-Bedroom Living
+panorama_63925830_5DD9_F575_41D2_3551FC27C918.label = T1 - Three-Bedroom Master Bath
+panorama_6381D6D7_5DDE_1D3B_41C2_D2F11C1D77B2.label = T1 - Three-Bedroom Master Bedroom
+panorama_6394AA12_5DDE_7535_41D2_80EC7472E078.label = T1 - Three-Bedroom Master b
+panorama_5D717876_7677_2A23_41CD_A4CEFAF050C1.label = T1 - Two-Bedroom BR1
+panorama_5D761A61_7677_EE21_41D8_EFD02C5AD588.label = T1 - Two-Bedroom Common T&B
+panorama_5D76ABDE_7677_2E63_41D0_C06A4D30D18A.label = T1 - Two-Bedroom Hallway
+panorama_5D77BD48_7677_2A6F_41BF_2146DE17D63C.label = T1 - Two-Bedroom LDK
+panorama_5D71796B_7677_EA21_41D4_7B4ABDEC885B.label = T1 - Two-Bedroom MBR
+panorama_5D76B74D_7677_2661_41D0_CDBE7BB76982.label = T1 - Two-Bedroom MBR T&B
+panorama_F7CB5776_EC2A_849D_41ED_1E6A0B4C0D37.label = T2 - One Bedroom Dining
+panorama_F0B0E1B6_EC3D_9F9D_41BA_B45B3649DB4F.label = T2 - One Bedroom Kitchen
+panorama_322A9B7D_76D5_2E21_41C5_4F8D887174C2.label = T2 - Studio Bedroom
+panorama_325177E9_76D7_2621_41D2_D3C3C83755F8.label = T2 - Studio Kitchen
+panorama_F5CC8C7A_EC6E_8495_41E2_F0E2B2C4F11B.label = T2 - Studio Living
+panorama_316ADEEA_76D7_E623_41DD_80EB8FD8A0B8.label = T2 - Studio Studio T&B
+panorama_CC15C4B9_D876_D4CC_41E4_5255BC208042.label = T2 - Studio Unit Kitchen
+panorama_D59A4FC7_E70D_05D8_41EC_B3F3EC09442E.label = T2 - Two - Bedroom BR1
+panorama_D5EFE7CE_E70D_05E8_41EC_622B07AF5F4F.label = T2 - Two - Bedroom Hallway_1
+panorama_F197E2B1_EC3F_9D97_41D4_CC4858BC7ED7.label = T2 - Two - Bedroom Hallway_2
+panorama_D59358BF_E70D_0BA8_41C4_C146C25FC28A.label = T2 - Two - Bedroom MBR
+panorama_CDD0FF70_D86A_745C_41E4_71AD541EC847.label = T2 One-Bedroom Living
+panorama_CCF12624_D855_B7C4_41E2_0BE8B9C66C63.label = T2 One-Bedroom Living
+panorama_CC380E11_D856_77DC_41D1_6F6C87DABD6B.label = T2 One-Bedroom MBR
+panorama_CC24526F_D86A_CC44_41D1_8B1D340387D6.label = T2 One-Bedroom MBR
+panorama_D5EC91A4_E70D_1A58_41E1_5C1CBFA20C80.label = T2-Two- Bedroom LDK
+map_561FF364_7172_BE3B_41D0_DE6BB7868A60.label = Transportation
+map_B53E379E_EAA8_D47D_4181_8658AF392044.label = Vicinity-map copy
+map_56027546_7172_9A07_41B7_DF8A163533FD.label = Worship
+panorama_AAB594DD_E937_1BE8_41EA_0BFF773631A2.label = Yoga Room
+
+## Skin
+
+### Button
+Button_44D5D9F8_77FF_EA2F_4196_CD1F59882DDA.label = (Existing and RFO) Tower 2
+Button_D0EBFCD2_CCAE_725A_41D2_7C898135A75D.label = Amenities
+Button_D0EBFCD2_CCAE_725A_41D2_7C898135A75D.pressedLabel = Amenities
+Button_50A9E0E7_7B26_C219_41C9_063D564578BC.label = Existing Amenities
+Button_327E676B_2E78_A0E4_41B9_86B794B8B7C0.pressedLabel = Help
+Button_327E676B_2E78_A0E4_41B9_86B794B8B7C0.label = Help
+Button_DAC95870_E63B_CB3A_41AA_25141E2E716E.label = Hide Interface
+Button_DAC95870_E63B_CB3A_41AA_25141E2E716E.pressedLabel = Hide Interface
+Button_87130867_CDEE_527A_41DC_89BCC1F3E649.pressedLabel = Location
+Button_87130867_CDEE_527A_41DC_89BCC1F3E649.label = Location
+Button_89B2C834_CDE2_51DE_41CD_4F6F62AAF5A5.pressedLabel = Overview
+Button_89B2C834_CDE2_51DE_41CD_4F6F62AAF5A5.label = Overview
+Button_FA45B0E3_E667_7B5E_41B9_73254076E913.label = Project Overview
+Button_FA45B0E3_E667_7B5E_41B9_73254076E913.pressedLabel = Project Overview
+Button_315F33D4_2E78_A02C_41C2_CB38CF59342C.pressedLabel = Return Website
+Button_315F33D4_2E78_A02C_41C2_CB38CF59342C.label = Return Website 
+Button_46B96717_77F5_67E1_41D1_2BC5E3D57857.label = Tower 1 (Pre-Selling Rendered)
+Button_D0053DCC_CCA1_F24E_4161_1C7D0AB8F03F.label = Units
+Button_D0053DCC_CCA1_F24E_4161_1C7D0AB8F03F.pressedLabel = Units
+Button_50AE70E8_7B26_C217_41DC_2B754B7999E4.label = Upcoming Amenities
+
+### Image
+Image_0D55C7A5_C825_F1BA_41D4_63E04205684C.url = skin/Image_0D55C7A5_C825_F1BA_41D4_63E04205684C_en.png
+Image_1279F809_C85C_7E8A_41B0_57D8588D6A1A.url = skin/Image_1279F809_C85C_7E8A_41B0_57D8588D6A1A_en.png
+Image_27C86C81_C825_B67A_41DB_50BB3346D72F.url = skin/Image_27C86C81_C825_B67A_41DB_50BB3346D72F_en.png
+Image_300A331C_2E78_E05C_41C3_050566A70B63.url = skin/Image_300A331C_2E78_E05C_41C3_050566A70B63_en.png
+Image_3060CD09_C824_B68A_41DA_45F64B0F0D76.url = skin/Image_3060CD09_C824_B68A_41DA_45F64B0F0D76_en.png
+Image_309A319F_C85F_B186_41CE_460256996F69.url = skin/Image_309A319F_C85F_B186_41CE_460256996F69_en.png
+Image_8BCE092B_CDA2_33CA_41E2_ADE5FAF0FCDB.url = skin/Image_8BCE092B_CDA2_33CA_41E2_ADE5FAF0FCDB_en.png
+Image_C05457CE_E66A_C566_41EA_29DD09DDEA78.url = skin/Image_C05457CE_E66A_C566_41EA_29DD09DDEA78_en.png
+Image_CBEBB2BA_D823_938E_41BE_72FEBDFFC7A2.url = skin/Image_CBEBB2BA_D823_938E_41BE_72FEBDFFC7A2_en.png
+Image_CC7018B8_D83C_9F8A_41D1_C3E573746C87.url = skin/Image_CC7018B8_D83C_9F8A_41D1_C3E573746C87_en.png
+Image_F55641ED_EC77_FF8F_41EA_70D3B7A856A9.url = skin/Image_F55641ED_EC77_FF8F_41EA_70D3B7A856A9_en.png
+
+### Label
+Label_6A936CAD_7FF0_E806_41C3_172A72BCD3C3.text =  1-BR SUITE (TOWER 2)
+Label_4161208B_7AE5_4229_4197_689DE7343B95.text =  1-BR UNIT (TOWER 1)
+Label_C3EF91DF_D888_9126_41D2_2B6709129A94.text =  1-BR UNIT (TOWER 2)
+Label_4D09ED2C_7AE3_426F_41D0_A4E0091B0E71.text = 2-BR UNIT (TOWER 1)
+Label_6A160A41_7FF0_A87E_41D4_14E1EC8D8755.text = 2-BR UNIT (TOWER 2)
+Label_C6A97BF4_EDEB_839D_41E5_14BED52B3F78.text = 3-BR UNIT (TOWER 1)
+Label_704DE194_7FB1_B806_41DE_5A30FEC26FD9.text = Actual Photo
+Label_074DA4F0_3349_8D60_41BB_79A9C452DB60.text = Amenity Deck
+Label_6CF94C38_7F91_A80E_41D7_1DDF25258F11.text = Artist's Perspective
+Label_49A69312_7B6E_C63B_41D1_20F352BB1040.text = Children's Playroom
+Label_5768E7E8_7B65_4E17_41CF_F2809ABB2E19.text = Conference Room
+Label_4A9E7AC6_7B63_461B_41C7_5FECBA9EA41A.text = Drop-Off Area
+Label_0662E680_3358_8DA0_41BF_B14DF6B8389B.text = Elevator Lobby
+Label_07D0FEDE_3358_FDA0_418B_184895A6CF96.text = Entrance Hall
+Label_48882042_76F3_3A63_41DD_B4359EBE29FC.text = Fitness Gym
+Label_4BF43DEF_7B63_DDE9_41D6_6BA4077316E1.text = Game Room
+Label_07831EE3_3358_9D60_41AE_3457918895CD.text = Lobby Area
+Label_064645B3_3359_8FE0_41C1_DCFC8802F7EF.text = Lounge Area
+Label_356BF1C6_76EE_FA63_41CE_7D1EDED090DC.text = Mail Room
+Label_34046EDF_76F3_2661_41B3_E55372BB99F1.text = Multi-purpose Room
+Label_6B5FE66F_7F8F_F802_41CC_6EE85C067E94.text = STUDIO UNIT (TOWER 1)
+Label_34062543_0175_17C9_4154_D09CAAA26608.text = STUDIO UNIT (TOWER 2)
+Label_06F9B166_3358_8760_41A5_4E792FB4CC0E.text = Streetview
+Label_4A3CB764_7B6E_CE1F_41C1_3C8064DCE4A6.text = Study Lounge
+Label_3638B119_76EE_DBE1_41D8_656B6E2DFFF3.text = Swimming Pool
+Label_4D0A8D33_7AE3_4279_417E_6FDD0EAD271D.text = TOTAL UNIT SIZE: 29 SQM
+Label_6B5E4676_7F8F_F802_41A0_9C5202711A23.text = TOTAL UNIT SIZE: 29 SQM
+Label_41677091_7AE5_4239_417B_36E152A04A96.text = TOTAL UNIT SIZE: 29 SQM
+Label_C6AA3BF5_EDEB_839F_41CC_708E4E598644.text = TOTAL UNIT SIZE: 29 SQM
+Label_34070544_0175_17CF_4165_E04BE72C60A7.text = TOTAL UNIT SIZE: 29 SQM
+Label_C3ECB1E0_D888_911A_41E1_F2A83B6C655B.text = TOTAL UNIT SIZE: 29 SQM
+Label_6A93DCB4_7FF0_E806_41A2_6D91096F554F.text = TOTAL UNIT SIZE: 29 SQM
+Label_6A16AA42_7FF0_A802_41BE_9D7B006990FC.text = TOTAL UNIT SIZE: 29 SQM
+Label_070D8181_3359_87A0_41B1_BC9914106BDD.text = View from EDSA Ave.
+Label_016206FD_3348_8D60_41C3_7FF61C30DD09.text = View from Julia Vargas Ave.
+Label_379EB6D3_76F3_2661_41DD_32528ACF481A.text = Yoga Room
+
+### Multiline Text
+HTMLText_6B5EB675_7F8F_F806_41CE_1E238EBD1174.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Average Unit Size              35 sq.m.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.59vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.37vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Living/Dining/Foyer/           21 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Kitchen                                 6 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">T&amp;B                                       4 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Balcony                                4 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">TOTAL                                35 sq.m.</SPAN></SPAN></DIV></div>
+HTMLText_C3EFF1E0_D888_911A_41E6_FDCE868C349D.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Average Unit Size              48 sq.m.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.59vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.37vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Living/Dining/Foyer/           18 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Kitchen                                 6 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Bedroom                             14 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">T&amp;B                                       5 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Balcony                                4 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">TOTAL                                48 sq.m.</SPAN></SPAN></DIV></div>
+HTMLText_4160008B_7AE5_4229_41CC_261D927C089A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Average Unit Size              48 sq.m.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.59vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.37vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Living/Dining/Foyer/           18 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Kitchen                                 6 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Bedroom                             14 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">T&amp;B                                       5 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Balcony                                4 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">TOTAL                                48 sq.m.</SPAN></SPAN></DIV></div>
+HTMLText_4D0AFD32_7AE3_427B_41A7_3FED70077614.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Average Unit Size              70 sq.m.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.59vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.37vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Living/Dining/Foyer/          24 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Kitchen                                 5 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Master Bedroom                14 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">MBR T&amp;B                              5 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Bedroom 2                           9 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Common T&amp;B                      4 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Balcony 1                             4 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Balcony 2                            4 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">TOTAL                                70 sq.m.</SPAN></SPAN></DIV></div>
+HTMLText_C6AAFBF5_EDEB_839F_41D7_4A4E778B2600.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Average Unit Size              70 sq.m.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.59vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.37vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Living/Dining/Foyer/          24 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Kitchen                                 5 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Master Bedroom                14 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">MBR T&amp;B                              5 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Bedroom 2                           9 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Common T&amp;B                      4 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Balcony 1                             4 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Balcony 2                            4 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">TOTAL                                70 sq.m.</SPAN></SPAN></DIV></div>
+HTMLText_6A16EA41_7FF0_A87E_41BD_85A572621255.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Average Unit Size              70 sq.m.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.59vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.37vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Living/Dining/Foyer/          24 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Kitchen                                 5 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Master Bedroom                14 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">MBR T&amp;B                              5 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Bedroom 2                           9 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Common T&amp;B                      4 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Balcony 1                             4 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Balcony 2                            4 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">TOTAL                                70 sq.m.</SPAN></SPAN></DIV></div>
+HTMLText_3407B544_0175_17CF_4177_E9E5ABD6B4E1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Average Unit Size              35 sq.m.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.59vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.37vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Living/Dining/Foyer/          21 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Kitchen                                6 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">T&amp;B                                      4 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Balcony                                4 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">TOTAL                                35 sq.m.</SPAN></SPAN></DIV></div>
+HTMLText_6A933CB3_7FF0_E802_41D0_3E7AB8ABF9B1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Average Unit Size              55 sq.m.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.59vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:1.37vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Living/Dining/Foyer/          25 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Kitchen                              6.5 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Bedroom                             16 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">T&amp;B                                    4.5 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">Balcony                                3 sq.m.</SPAN></SPAN></DIV><DIV STYLE="line-height:190%;text-align:left;font-size:1.594533029612757vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.59vmin;font-family:'Inter Regular';">TOTAL                                55 sq.m.</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = The Grand Midori Ortigas by Federal Land (WIP)
