@@ -45,3 +45,31 @@
 [debug] [2025-12-16T04:38:50.323Z] No OAuth tokens found
 [error] Failed to fetch Firebase Project from current Studio Workspace: Unable to refresh auth: not yet authenticated.
 [info] i  The Firebase CLI’s MCP server feature can optionally make use of Gemini in Firebase. Learn more about Gemini in Firebase and how it uses your data: https://firebase.google.com/docs/gemini-in-firebase#how-gemini-in-firebase-uses-your-data 
+[debug] [2025-12-16T09:07:55.650Z] ----------------------------------------------------------------------
+[debug] [2025-12-16T09:07:55.653Z] Command:       /nix/store/ws50yvm6vzlzf7jzz6n7xh4szddrack1-nodejs-20.19.1/bin/node /nix/store/c776mhyhgykcld7p90ajrka149ifn61a-firebase-tools-14.26.0/lib/node_modules/firebase-tools/lib/bin/firebase.js login --reauth
+[debug] [2025-12-16T09:07:55.654Z] CLI Version:   14.26.0
+[debug] [2025-12-16T09:07:55.654Z] Platform:      linux
+[debug] [2025-12-16T09:07:55.655Z] Node Version:  v20.19.1
+[debug] [2025-12-16T09:07:55.655Z] Time:          Tue Dec 16 2025 09:07:55 GMT+0000 (Coordinated Universal Time)
+[debug] [2025-12-16T09:07:55.655Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-12-16T09:07:56.183Z] No OAuth tokens found
+[debug] [2025-12-16T09:07:56.184Z] No OAuth tokens found
+[error] Failed to fetch Firebase Project from current Studio Workspace: Unable to refresh auth: not yet authenticated.
+[debug] [2025-12-16T09:07:56.193Z] >>> [apiv2][query] POST https://auth.firebase.tools/attest [none]
+[debug] [2025-12-16T09:07:56.193Z] >>> [apiv2][body] POST https://auth.firebase.tools/attest {"session_id":"a374f525-0ab2-4f06-8d76-4cdbb5498e89"}
+[debug] [2025-12-16T09:07:56.801Z] <<< [apiv2][status] POST https://auth.firebase.tools/attest 200
+[debug] [2025-12-16T09:07:56.802Z] <<< [apiv2][body] POST https://auth.firebase.tools/attest {"token":"2HJfnqSV0Kcd-PqdRHuwFBy6dfG_h2DEuFfwflZXlSw"}
+[info] 
+[info] To sign in to the Firebase CLI:
+[info] 
+[info] 1. Take note of your session ID:
+[info] 
+[info]    A374F
+[info] 
+[info] 2. Visit the URL below on any device and follow the instructions to get your code:
+[info] 
+[info]    https://auth.firebase.tools/login?code_challenge=jefO7ilmujSyEGJrSbC9SDg-Ngp2QYKmplgpeKrrMWg&session=a374f525-0ab2-4f06-8d76-4cdbb5498e89&attest=2HJfnqSV0Kcd-PqdRHuwFBy6dfG_h2DEuFfwflZXlSw
+[info] 
+[info] 3. Paste or enter the authorization code below once you have it:
+[info] 

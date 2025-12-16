@@ -1,0 +1,88 @@
+/* mobile-fix.css */
+
+/*
+ * 1. GLOBAL RESET & OVERRIDES
+ * Force border-box sizing universally to prevent padding from breaking layouts.
+ * This is the single most effective fix for many sizing issues.
+*/
+*, *::before, *::after {
+    box-sizing: border-box !important; /* Use !important to override inline styles from JS */
+}
+
+/*
+ * Override the aggressive polyfill styles on the main viewer canvas.
+ * This restores control over the layout to the parent containers.
+*/
+#viewer > canvas {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+/*
+ * 2. MOBILE-FIRST ADAPTIVE LAYOUT
+ * The 'mobile-view' class will be added by our JS hook (mobile-fix.js).
+ * This is more reliable than user-agent sniffing.
+*/
+
+/* Apply these styles only when the viewport is narrow */
+.mobile-view {
+    /*
+     * FIX CLIPPING & OVERFLOW
+     * Target 3DVista containers that might be clipping content.
+     * The exact class/ID might vary, inspect your DOM to find the right ones.
+     * Common candidates are containers for popups, hotspots, or menus.
+    */
+    .viewer-container, .popup-wrapper, #tdv-container { /* Example selectors */
+        overflow: visible !important;
+    }
+
+    /*
+     * MAKE ABSOLUTE/FIXED ELEMENTS RESPONSIVE
+     * Target UI elements that are positioned absolutely and stuck off-screen.
+     * Reset their positions and use flexbox or transforms for centering.
+    */
+    .custom-hotspot, .info-popup { /* Example selectors */
+        left: 50% !important;
+        top: 50% !important;
+        transform: translate(-50%, -50%); /* Modern centering */
+        max-width: 90vw; /* Ensure it never overflows the viewport width */
+        max-height: 80svh; /* Use Small Viewport Height to avoid bottom nav bars */
+        overflow-y: auto; /* Allow scrolling within the popup if content is tall */
+    }
+
+    /*
+     * FIX RESPONSIVE IFRAMES
+     * If an iframe is inside a container, apply the intrinsic ratio technique.
+    */
+    .iframe-container { /* Add this class to the iframe's parent div */
+        position: relative;
+        width: 100%;
+        height: 0;
+        padding-top: 56.25%; /* 16:9 aspect ratio. Adjust as needed. (9 / 16 * 100) */
+    }
+
+    .iframe-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+
+    /*
+     * ENSURE TOUCH TARGETS ARE USABLE
+     * Make buttons and icons larger and easier to tap.
+    */
+    .viewer-button, .hotspot-icon { /* Example selectors */
+        min-width: 44px;
+        min-height: 44px;
+        transform: scale(1.1); /* Slightly enlarge the element */
+    }
+}
+
+/* Handle device rotation */
+@media (orientation: landscape) and (max-height: 500px) {
+    .mobile-view .info-popup {
+        max-height: 90svh; /* Allow more height in landscape */
+    }
+}

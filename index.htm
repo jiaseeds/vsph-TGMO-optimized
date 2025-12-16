@@ -2,10 +2,15 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    
     <title>3DVista Virtual Tour</title>
     <meta name="description" content="Virtual Tour"/>
     <meta name="theme-color" content="#FFFFFF"/>
+
+    <link rel="stylesheet" href="fonts.css?v=1765260496031">
+    
+    <link rel="stylesheet" href="mobile-fix.css">
 
     <!-- Preload critical assets -->
     <link rel="preload" href="locale/en.txt?v=1765260496031" as="fetch" crossorigin="anonymous"/>
@@ -13,18 +18,18 @@
     <link rel="preload" href="media/panorama_220FE71A_04ED_3534_415B_B337CB08FAE8_0/l/1/0_0.webp?v=1765260496031" as="image" fetchpriority="high"/>
     <link rel="preload" href="media/panorama_220FE71A_04ED_3534_415B_B337CB08FAE8_0/u/1/0_0.webp?v=1765260496031" as="image" fetchpriority="high"/>
 
-    <link rel="stylesheet" href="fonts.css?v=1765260496031" fetchpriority="high">
     <link rel="stylesheet" href="optimizations.css">
 
-    <!-- Gemini IDE Mobile Fix: Load polyfills first to prevent rendering issues -->
+    <script>
+      window.isMobile = /Mobi|Tablet|Android|iPad|iPhone/.test(navigator.userAgent);
+    </script>
+
     <script src="lib/webxr-polyfill.js"></script>
     <script src="lib/WebVRPolyfill.js"></script>
 
-    <!-- Gemini IDE Performance Optimization: Load custom optimizations first -->
     <script src="custom-optimizations.js"></script>
 
     <style type="text/css">
-        /* Gemini IDE Mobile Fix: Universal box-sizing and override polyfill styles */
         *, *::before, *::after {
             box-sizing: border-box;
         }
@@ -62,14 +67,14 @@
     <div id="tdv-container"></div>
     <div id="loading-container"></div>
 
-    <!-- Vercel Speed Insights -->
     <script>
         window.si = window.si || function () { (window.siq = window.siq || []).push(arguments); };
     </script>
     <script defer src="/_vercel/speed-insights/script.js"></script>
 
-    <!-- Gemini IDE Performance Optimization: Defer loading of 3DVista scripts -->
     <script src="lib/tdvplayer.js" defer></script>
     <script src="script.js" defer></script>
+
+    <script src="mobile-fix.js" defer></script>
 </body>
 </html>
