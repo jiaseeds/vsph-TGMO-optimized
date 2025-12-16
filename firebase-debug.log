@@ -1,0 +1,47 @@
+[debug] [2025-12-16T04:38:05.549Z] ----------------------------------------------------------------------
+[debug] [2025-12-16T04:38:05.553Z] Command:       /nix/store/ws50yvm6vzlzf7jzz6n7xh4szddrack1-nodejs-20.19.1/bin/node /nix/store/c776mhyhgykcld7p90ajrka149ifn61a-firebase-tools-14.26.0/lib/node_modules/firebase-tools/lib/bin/firebase.js deploy --only hosting --public .
+[debug] [2025-12-16T04:38:05.554Z] CLI Version:   14.26.0
+[debug] [2025-12-16T04:38:05.554Z] Platform:      linux
+[debug] [2025-12-16T04:38:05.554Z] Node Version:  v20.19.1
+[debug] [2025-12-16T04:38:05.554Z] Time:          Tue Dec 16 2025 04:38:05 GMT+0000 (Coordinated Universal Time)
+[debug] [2025-12-16T04:38:05.554Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-12-16T04:38:06.099Z] No OAuth tokens found
+[debug] [2025-12-16T04:38:06.099Z] No OAuth tokens found
+[error] Failed to fetch Firebase Project from current Studio Workspace: Unable to refresh auth: not yet authenticated.
+[debug] [2025-12-16T04:38:06.105Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-16T04:38:26.719Z] Running auto auth
+[debug] [2025-12-16T04:38:26.748Z] [iam] checking project tgmo for permissions ["firebase.projects.get","firebasehosting.sites.update"]
+[debug] [2025-12-16T04:38:26.750Z] No OAuth tokens found
+[debug] [2025-12-16T04:38:26.753Z] >>> [apiv2][query] POST https://cloudresourcemanager.googleapis.com/v1/projects/tgmo:testIamPermissions [none]
+[debug] [2025-12-16T04:38:26.755Z] >>> [apiv2][(partial)header] POST https://cloudresourcemanager.googleapis.com/v1/projects/tgmo:testIamPermissions x-goog-quota-user=projects/tgmo
+[debug] [2025-12-16T04:38:26.756Z] >>> [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/tgmo:testIamPermissions {"permissions":["firebase.projects.get","firebasehosting.sites.update"]}
+[debug] [2025-12-16T04:38:27.189Z] <<< [apiv2][status] POST https://cloudresourcemanager.googleapis.com/v1/projects/tgmo:testIamPermissions 200
+[debug] [2025-12-16T04:38:27.189Z] <<< [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/tgmo:testIamPermissions {}
+[debug] [2025-12-16T04:38:27.189Z] [iam] error while checking permissions, command may fail: Authorization failed. This account is missing the following required permissions on project tgmo:
+
+  firebase.projects.get
+  firebasehosting.sites.update
+[debug] [2025-12-16T04:38:27.192Z] No OAuth tokens found
+[debug] [2025-12-16T04:38:27.193Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/tgmo [none]
+[debug] [2025-12-16T04:38:27.684Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/tgmo 403
+[debug] [2025-12-16T04:38:27.684Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/tgmo {"error":{"code":403,"message":"The caller does not have permission","status":"PERMISSION_DENIED"}}
+[debug] [2025-12-16T04:38:27.688Z] Request to https://firebase.googleapis.com/v1beta1/projects/tgmo had HTTP Error: 403, The caller does not have permission
+[debug] [2025-12-16T04:38:27.714Z] FirebaseError: Request to https://firebase.googleapis.com/v1beta1/projects/tgmo had HTTP Error: 403, The caller does not have permission
+    at responseToError (/nix/store/c776mhyhgykcld7p90ajrka149ifn61a-firebase-tools-14.26.0/lib/node_modules/firebase-tools/lib/responseToError.js:53:12)
+    at RetryOperation._fn (/nix/store/c776mhyhgykcld7p90ajrka149ifn61a-firebase-tools-14.26.0/lib/node_modules/firebase-tools/lib/apiv2.js:322:77)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[error] 
+[error] Error: Failed to get Firebase project tgmo. Please make sure the project exists and your account has permission to access it.
+[debug] [2025-12-16T04:38:49.694Z] ----------------------------------------------------------------------
+[debug] [2025-12-16T04:38:49.698Z] Command:       /nix/store/ws50yvm6vzlzf7jzz6n7xh4szddrack1-nodejs-20.19.1/bin/node /nix/store/c776mhyhgykcld7p90ajrka149ifn61a-firebase-tools-14.26.0/lib/node_modules/firebase-tools/lib/bin/firebase.js login --no-localhost
+[debug] [2025-12-16T04:38:49.699Z] CLI Version:   14.26.0
+[debug] [2025-12-16T04:38:49.699Z] Platform:      linux
+[debug] [2025-12-16T04:38:49.699Z] Node Version:  v20.19.1
+[debug] [2025-12-16T04:38:49.699Z] Time:          Tue Dec 16 2025 04:38:49 GMT+0000 (Coordinated Universal Time)
+[debug] [2025-12-16T04:38:49.700Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-12-16T04:38:50.322Z] No OAuth tokens found
+[debug] [2025-12-16T04:38:50.323Z] No OAuth tokens found
+[error] Failed to fetch Firebase Project from current Studio Workspace: Unable to refresh auth: not yet authenticated.
+[info] i  The Firebase CLI’s MCP server feature can optionally make use of Gemini in Firebase. Learn more about Gemini in Firebase and how it uses your data: https://firebase.google.com/docs/gemini-in-firebase#how-gemini-in-firebase-uses-your-data 
