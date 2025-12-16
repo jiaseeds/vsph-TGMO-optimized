@@ -16,6 +16,10 @@
     <link rel="stylesheet" href="fonts.css?v=1765260496031" fetchpriority="high">
     <link rel="stylesheet" href="optimizations.css">
 
+    <!-- Gemini IDE Mobile Fix: Load polyfills first to prevent rendering issues -->
+    <script src="lib/webxr-polyfill.js"></script>
+    <script src="lib/WebVRPolyfill.js"></script>
+
     <!-- Gemini IDE Performance Optimization: Load custom optimizations first -->
     <script src="custom-optimizations.js"></script>
 
