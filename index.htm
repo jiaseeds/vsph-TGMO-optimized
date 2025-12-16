@@ -24,10 +24,22 @@
     <script src="custom-optimizations.js"></script>
 
     <style type="text/css">
+        /* Gemini IDE Mobile Fix: Universal box-sizing and override polyfill styles */
+        *, *::before, *::after {
+            box-sizing: border-box;
+        }
+
         html, body {
-            height:100%; width:100%; height:100vh; width:100vw; margin:0; padding:0; overflow:hidden;
+            height:100%; width:100%; margin:0; padding:0; overflow:hidden;
             font-family: 'Inter', sans-serif;
         }
+
+        #viewer canvas {
+            width: 100% !important;
+            height: 100% !important;
+            box-sizing: border-box !important;
+        }
+        
         .poppins-medium {
             font-family: 'Poppins', sans-serif;
             font-weight: 500;
