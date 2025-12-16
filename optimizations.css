@@ -1,0 +1,39 @@
+/* optimizations.css */
+
+/*
+ C) 5. CSS Containment: Isolate rendering for the main viewer and hotspots.
+ This tells the browser that the layout, style, and paint operations within
+ these elements are independent of the rest of the page, reducing recalculations.
+*/
+#viewer {
+  contain: strict; /* Or layout style paint if strict is too aggressive */
+}
+
+/* Apply to individual hotspots if they are complex */
+.hotspot-class { /* Replace with your actual hotspot class if identifiable */
+  contain: layout style;
+}
+
+/*
+ C) 6. GPU-Friendly Animations:
+ Override any default animations that use `left`, `top`, `width`, or `height`.
+ Replace them with `transform` and `opacity`.
+*/
+@keyframes slide-in-optimized {
+  from {
+    opacity: 0;
+    transform: translateX(-100%);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.animated-popup {
+  /* Example: remove old animation property */
+  animation: none;
+  /* Apply new, GPU-friendly animation */
+  animation: slide-in-optimized 0.5s forwards;
+  will-change: transform, opacity; /* Hint to the browser to prepare for changes */
+}

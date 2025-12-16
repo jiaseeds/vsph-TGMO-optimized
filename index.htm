@@ -6,22 +6,24 @@
     <meta name="viewport" id="metaViewport" content="user-scalable=no, initial-scale=1, width=device-width, viewport-fit=cover" data-tdv-general-scale="0.51"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
     <meta name="apple-mobile-web-app-status-bar-style" content="default">
-    <!-- 7. Use loading="eager" for critical images (if using <img>) -->
-    <!-- No <img> tags in head, but if you add <img> tags in body, use loading="eager" -->
-    <!-- 10. Minimize unused preloads: Only keep preloads for images needed for initial render -->
-    <!-- 11. Use HTTPS for all resources (local resources kept as relative paths) -->
+    
+    <!-- C) 1. Defer/async load player scripts -->
     <script src="lib/tdvplayer.js?v=1765260496031" defer></script>
+    <script src="scorm.js" type="text/javascript" defer></script>
+    <script src="script.js?v=1765260496031" defer></script>
+    <script src="custom-optimizations.js?v=1765260496031" defer></script>
+
+    <!-- Our new optimization styles -->
+    <link rel="stylesheet" href="optimizations.css?v=1765260496031">
+
+    <!-- Preload critical assets -->
     <link rel="preload" href="locale/en.txt?v=1765260496031" as="fetch" crossorigin="anonymous"/>
-    <link rel="preload" href="script.js?v=1765260496031" as="script"/>
-    <!-- Only keep preloads for images needed for initial render -->
     <link rel="preload" href="media/panorama_220FE71A_04ED_3534_415B_B337CB08FAE8_0/r/1/0_0.webp?v=1765260496031" as="image" fetchpriority="high"/>
     <link rel="preload" href="media/panorama_220FE71A_04ED_3534_415B_B337CB08FAE8_0/l/1/0_0.webp?v=1765260496031" as="image" fetchpriority="high"/>
     <link rel="preload" href="media/panorama_220FE71A_04ED_3534_415B_B337CB08FAE8_0/u/1/0_0.webp?v=1765260496031" as="image" fetchpriority="high"/>
-    <script src="scorm.js" type="text/javascript" defer></script>
     <script>  window.gaDataLayer = window.gaDataLayer || [];  function gtag(){gaDataLayer.push(arguments);}  window.gtag = gtag;  gtag("js", new Date());  gtag("config", "G-TWRVL7GH2Q", {"anonymize_ip":true});</script>
     <meta name="description" content="Virtual Tour"/>
     <meta name="theme-color" content="#FFFFFF"/>
-    <script src="script.js?v=1765260496031" defer></script>
     <link rel="stylesheet" href="fonts.css?v=1765260496031" fetchpriority="high">
     <style type="text/css">
         html, body {
@@ -43,7 +45,6 @@
         #viewer { z-index:1; }
         #preloadContainer { z-index:2; opacity:0; background-color:rgba(255,255,255,1); transition: opacity 0.5s; -webkit-transition: opacity 0.5s; -moz-transition: opacity 0.5s; -o-transition: opacity 0.5s;}
     </style>
-    <!-- 12. Set viewport meta tag for better mobile support (already present) -->
 </head>
 <body>
     <div id="preloadContainer" class="fill-viewport"><div style="z-index: 4; position: absolute; overflow: hidden; background-size: contain; background-image: url('loading/HTMLImage_1965C650_3895_3936_41B1_73E94453DBA4.png'); background-repeat: no-repeat; background-position: center center; overflow: hidden; left: 0%; bottom: 42.07%; width: 100.00%; height: 28.96%" ></div></div>

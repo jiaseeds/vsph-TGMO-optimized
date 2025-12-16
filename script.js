@@ -124,6 +124,9 @@ function onVirtualTourInit()
 function onVirtualTourLoaded()
 {
     disposePreloader();
+    if (typeof applyOptimizations === 'function') {
+        applyOptimizations();
+    }
 }
 
 function onVirtualTourEnded()
